@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557335427034",
+    "project_id": "application-92923",
+    "storage_bucket": "application-92923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557335427034:android:f2f01781155bfa577af2e3",
+        "android_client_info": {
+          "package_name": "com.example.meter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV1U6RObPReORAoC82WIeL21GDU697XA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
